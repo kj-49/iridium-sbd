@@ -1,0 +1,18 @@
+# --- Compiled Binaries ---
+*.exe
+*.out
+*.app
+*.a
+*.o
+
+# --- Vim Swap Files ---
+# Vim creates these while you're editing
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+Session.vim
+.netrwhist
+*~
+
+.vscode/
