@@ -14,4 +14,4 @@ src/%.o: src/%.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	$(RM) src*.o iridium-sbd.a
+	$(RM) src*.o libiridium-sbd.a
